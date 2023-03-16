@@ -1,1 +1,0 @@
-# tailwind-for-begginers-course
